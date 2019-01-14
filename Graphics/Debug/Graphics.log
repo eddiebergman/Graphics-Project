@@ -1,0 +1,8 @@
+﻿  KeyboardController.cpp
+c:\users\eddie\source\repos\graphics\graphics\note.h(18): warning C4091: 'static ': ignored on left of 'Note::T' when no variable is declared
+  Source.cpp
+c:\users\eddie\source\repos\graphics\graphics\note.h(18): warning C4091: 'static ': ignored on left of 'Note::T' when no variable is declared
+  Sphere.cpp
+c:\users\eddie\source\repos\graphics\graphics\note.h(18): warning C4091: 'static ': ignored on left of 'Note::T' when no variable is declared
+  Generating Code...
+  Graphics.vcxproj -> C:\Users\Eddie\source\repos\Graphics\Debug\Graphics.exe
